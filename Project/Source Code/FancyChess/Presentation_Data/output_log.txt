@@ -1,0 +1,1378 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8650G + HD 8750M Dual Graphics (ID=0x990b)
+    Vendor:   ATI
+    VRAM:     2763 MB
+    Driver:   15.200.1065.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.237 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\FancyChess\Presentation_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.273423 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d88 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.897191 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 422.
+Total: 0.491207 ms (FindLiveObjects: 0.064016 ms CreateObjectMapping: 0.034881 ms MarkObjects: 0.374663 ms  DeleteObjects: 0.016004 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.795698 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 768.
+Total: 1.091161 ms (FindLiveObjects: 0.112850 ms CreateObjectMapping: 0.053347 ms MarkObjects: 0.912242 ms  DeleteObjects: 0.011079 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveDRB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.take () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at King.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at King.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at King.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at King.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ShogiRook.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiRook.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveB (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at King.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at King.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at ShogiPawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiPawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Archer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Archer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at CrossBowMan.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at CrossBowMan.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at King.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at King.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Pawn.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Pawn.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Paladin.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Paladin.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.jump (Int32 x, Int32 y, Boolean take) [0x00000] in <filename unknown>:0 
+  at Ninja.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Ninja.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at Wizard.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Wizard.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Queen.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at Queen.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ShogiLancer.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at ShogiLancer.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Piece.moveF (Int32 dist, Boolean take) [0x00000] in <filename unknown>:0 
+  at King.movement () [0x00000] in <filename unknown>:0 
+  at Piece.setupPiece () [0x00000] in <filename unknown>:0 
+  at Piece.Start () [0x00000] in <filename unknown>:0 
+  at King.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.723775 ms
+
+Unloading 627 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 5.661810 ms (FindLiveObjects: 0.215031 ms CreateObjectMapping: 0.178508 ms MarkObjects: 1.666903 ms  DeleteObjects: 3.598903 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.499945 ms
+
+Unloading 202 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 1.515889 ms (FindLiveObjects: 0.085355 ms CreateObjectMapping: 0.057040 ms MarkObjects: 0.906497 ms  DeleteObjects: 0.465354 ms)
+

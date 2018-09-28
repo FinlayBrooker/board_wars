@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyChess.Plugins", "FancyChess.Plugins.csproj", "{90DFF9B6-E861-51EA-E62D-A281A5A149FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyChess", "FancyChess.csproj", "{F7C7D5C4-6CFD-9957-747E-CB06041137FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyChess.Editor.Plugins", "FancyChess.Editor.Plugins.csproj", "{150B8C1C-37AC-DED9-D204-D54A13522C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DFF9B6-E861-51EA-E62D-A281A5A149FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DFF9B6-E861-51EA-E62D-A281A5A149FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DFF9B6-E861-51EA-E62D-A281A5A149FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DFF9B6-E861-51EA-E62D-A281A5A149FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C7D5C4-6CFD-9957-747E-CB06041137FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C7D5C4-6CFD-9957-747E-CB06041137FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C7D5C4-6CFD-9957-747E-CB06041137FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C7D5C4-6CFD-9957-747E-CB06041137FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150B8C1C-37AC-DED9-D204-D54A13522C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150B8C1C-37AC-DED9-D204-D54A13522C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150B8C1C-37AC-DED9-D204-D54A13522C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150B8C1C-37AC-DED9-D204-D54A13522C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
